@@ -2,3 +2,6 @@
 .sideloadly.io
 .233360.xyz
 .spclient.wg.spotify.com
+.gue1-spclient.spotify.com
+.gae2-spclient.spotify.com
+.guc3-spclient.spotify.com
