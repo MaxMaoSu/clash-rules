@@ -1,3 +1,4 @@
 .jsdelivr.net
 .sideloadly.io
 .233360.xyz
+.cdn.callofduty.com
